@@ -1,6 +1,6 @@
 # SFP: Spectral Feature Polynomial Framework
 
-**Automated discovery of interpretable spectral indices for vegetation monitoring.**
+**Interpretable Machine Learning–Derived Spectral Indices for Vegetation Monitoring.**
 
 > **Reference paper:** Lotfi, A., Carter, A., Ha, T., Meysami, M., Nketia, K.,
 > & Shirtliffe, S. (2026). *Interpretable Machine Learning–Derived Spectral
